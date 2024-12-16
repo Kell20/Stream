@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyStreamOp/MyStreamOp.iml" filepath="$PROJECT_DIR$/MyStreamOp/MyStreamOp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortedExamples/SortedExamples.iml" filepath="$PROJECT_DIR$/SortedExamples/SortedExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream Project.iml" filepath="$PROJECT_DIR$/Stream Project.iml" />
+    </modules>
+  </component>
+</project>
